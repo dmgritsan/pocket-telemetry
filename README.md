@@ -1,5 +1,5 @@
 # Pocket Telemetry 
-### Should be Karting Track Data Collector but...
+### It should be Karting Track Data Collector but...
 ### ¯\\_(ツ)_/¯
 
 ## Overview
